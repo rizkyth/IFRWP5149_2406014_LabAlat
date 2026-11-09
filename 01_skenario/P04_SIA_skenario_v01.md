@@ -180,7 +180,7 @@ Gambar diagram kumulatif dengan cara yang sama seperti Langkah 8 pada studi kasu
 3. Use case pengelolaan data mahasiswa beserta *generalization* use case.
 4. Dua *collaboration* beserta *realization*.
 
-Simpan hasilnya pada folder `04model_analisis/P04/SIA/` dengan nama `P04<2406020>_SIA_notasi_usecase_v01.drawio`, beserta ekspor PNG dengan versi yang sama. Diagram akhir memuat fungsi jadwal, fungsi KRS, dan fungsi hasil studi dalam satu diagram Sistem Informasi Akademik.
+Simpan hasilnya pada folder `04model_analisis/P04/SIA/` dengan nama `P04<2406014>_SIA_notasi_usecase_v01.drawio`, beserta ekspor PNG dengan versi yang sama. Diagram akhir memuat fungsi jadwal, fungsi KRS, dan fungsi hasil studi dalam satu diagram Sistem Informasi Akademik.
 
 ## Langkah 8 — Uji Konsistensi, Review, dan Revisi
 
